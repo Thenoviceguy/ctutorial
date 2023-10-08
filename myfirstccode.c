@@ -11,8 +11,9 @@ char e = 120;
 char name[] = "xrogs";
 char grade = 'B';
 bool east = true;
-
-
+short hh = 32767; //a short integer 
+long long int m = 1111111111111111;//a really long int
+  
 printf("you are %d\n",y);
 printf("your average grade is %c\n",grade);
 printf("your name is %s\n",name);
