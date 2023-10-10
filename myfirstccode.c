@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (){
+int bane (){
 int x;
 int y;
 y = 25;
